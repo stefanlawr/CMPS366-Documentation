@@ -4,4 +4,4 @@ This is the git repo for the static site I made to render my documentation and m
 
 ## Documentation Website
 
-[Documentation and Manual](pages.ramapo.edu/~sstrauc1)
+[Documentation and Manual](https://pages.ramapo.edu/~sstrauc1)
