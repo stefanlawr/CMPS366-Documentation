@@ -2,16 +2,18 @@ module.exports = {
   title: 'Five Crowns Project',
   description: 'OPL Fall 2019 Project',
   themeConfig: {
-    nav: [{
+    nav: [
+      {
         text: 'Manual',
-        link: '/manual/'
+        link: '/manual/',
       },
       {
         text: 'Five Crowns',
-        link: 'https://pages.ramapo.edu/~amruth/teaching/opl/5crowns/problem.html'
-      }
+        link:
+          'https://pages.ramapo.edu/~amruth/teaching/opl/5crowns/problem.html',
+      },
     ],
-    sidebar: 'auto'
+    sidebar: 'auto',
   },
-  base: '/~sstrauc1/'
-}
+  base: '/~sstrauc1/',
+};
